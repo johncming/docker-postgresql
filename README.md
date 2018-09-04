@@ -1,5 +1,4 @@
 # docker-postgresql
 
-postgresql的docker环境.
-
-简单就是好.
+1. postgresql的docker环境.
+2. 单instance
